@@ -30,5 +30,3 @@ In this project, we harness the power of PySpark and Spark SQL on Google Colab t
 
 ## Conclusion
 Through the integration of PySpark, Spark SQL, and Google Colab, this project empowers us to perform sophisticated analysis on large-scale datasets. The insights gained from our data exploration contribute to a deeper understanding of home sales trends and metrics. We also delve into the technical aspects of data optimization, caching, and uncache, which are crucial skills for handling big data effectively.
-
-Thank you for joining us on this journey through Home-Sales-Big-Data-with-PySpark-SQL!
